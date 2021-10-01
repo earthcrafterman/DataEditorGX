@@ -35,25 +35,15 @@ race 0x4 Fairy
 race 0x8 Fiend
 race 0x10 Zombie
 race 0x20 Machine
-race 0x40 Aqua
-race 0x80 Pyro
-race 0x100 Rock
-race 0x200 Winged Beast
+race 0x40 Aquatic
+race 0x80 Elemental
 race 0x400 Plant
 race 0x800 Insect
-race 0x1000 Thunder
 race 0x2000 Dragon
 race 0x4000 Beast
-race 0x8000 Beast-Warrior
-race 0x10000 Dinosaur
-race 0x20000 Fish
-race 0x40000 Sea Serpent
 race 0x80000 Reptile
 race 0x100000 Psychic
 race 0x200000 Divine-Beast
-race 0x400000 Creator God
-race 0x800000 Wyrm
-race 0x1000000 Charisma
 ###########################
 ##type
 type 0x1 Monster   
